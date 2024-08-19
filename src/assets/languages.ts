@@ -3,8 +3,8 @@ import bg from "@/assets/locales/bg.json";
 import bn from "@/assets/locales/bn.json";
 import ca from "@/assets/locales/ca.json";
 import caVl from "@/assets/locales/ca@valencia.json";
-import cat from "@/assets/locales/cat.json";
 import cs from "@/assets/locales/cs.json";
+import da from "@/assets/locales/da.json";
 import de from "@/assets/locales/de.json";
 import el from "@/assets/locales/el.json";
 import en from "@/assets/locales/en.json";
@@ -21,6 +21,7 @@ import id from "@/assets/locales/id.json";
 import is from "@/assets/locales/is-IS.json";
 import it from "@/assets/locales/it.json";
 import ja from "@/assets/locales/ja.json";
+import kitty from "@/assets/locales/kitty.json";
 import ko from "@/assets/locales/ko.json";
 import lv from "@/assets/locales/lv.json";
 import minion from "@/assets/locales/minion.json";
@@ -51,6 +52,7 @@ export const locales = {
   ca,
   "ca-ES": caVl,
   cs,
+  da,
   de,
   fr,
   it,
@@ -62,7 +64,7 @@ export const locales = {
   he,
   sv,
   pirate,
-  cat,
+  kitty,
   uwu,
   minion,
   lv,

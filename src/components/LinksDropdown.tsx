@@ -24,8 +24,12 @@ function GoToLink(props: {
   const navigate = useNavigate();
 
   const goTo = (href: string) => {
-    if (href.startsWith("http")) window.open(href, "_blank");
-    else navigate(href);
+    if (href.startsWith("http")) {
+      window.open(href, "_blank");
+    } else {
+      window.scrollTo(0, 0);
+      navigate(href);
+    }
   };
 
   return (

@@ -1,25 +1,26 @@
 # Sudo-Flix
-[![Sudo-Flix Image](.github/Sudo-Flix.png)](https://docs.sudo-flix.lol)  
+[![Sudo-Flix Image](.github/Sudo-Flix.png)](https://docs.undi.rest)  
 
 **I *do not* endorse piracy of any kind I simply enjoy programming and large user counts.**
 
 ## Links And Resources
 | Service        | Link                                                             | Source Code                                              |
 |----------------|------------------------------------------------------------------|----------------------------------------------------------|
-| Sudo-Flix Docs | [sudo-docs](https://sussy-code.github.io/docs)                   | [source code](https://github.com/sussy-code/docs)        |
-| Extension      | [extension](https://sussy-code.github.io/docs/extension)         | [source code](https://github.com/sussy-code/browser-ext) |
-| Proxy          | [sudo-proxy](https://sudo-proxy.up.railway.app)                  | [source code](https://github.com/sussy-code/sudo-proxy)  |             
-| Backend        | [sudo-backend](https://backend.sudo-flix.lol)                    | [source code](https://github.com/sussy-code/backend)     |
-| Frontend       | [sudo-flix](https://sudo-flix.lol), [2](https://flix.kanded.xyz) | [source code](https://github.com/sussy-code/smov)        |
+| Sudo-Flix Docs | [sudo-docs](https://docs.undi.rest)                          | [source code](https://github.com/sussy-code/docs)        |
+| Extension      | [extension](https://docs.undi.rest/extension)                | [source code](https://github.com/sussy-code/browser-ext) |
+| Proxy          | [sudo-proxy](https://sudo-proxy.up.railway.app)              | [source code](https://github.com/sussy-code/sudo-proxy)  |             
+| Backend        | [sudo-backend](https://backend.undi.rest)                    | [source code](https://github.com/sussy-code/backend)     |
+| Frontend       | [sudo-flix](https://docs.undi.rest/instances)                | [source code](https://github.com/sussy-code/smov)        |
+| Weblate        | [sudo-weblate](https://docs.undi.rest/links/weblate)         | [source code](https://github.com/sussy-code/docs)        |
 
 ***I provide these if you are not able to host yourself, though I do encourage hosting the frontend.***
 
 
 ## Referrers
-- [Priacy Subreddit Megathread](https://www.reddit.com/r/Piracy/s/iymSloEpXn)
+- [FMHY (Voted as #1 multi-server streaming site of 2024)](https://fmhy.net)
+- [Piracy Subreddit Megathread](https://www.reddit.com/r/Piracy/s/iymSloEpXn)
 - [Toon's Instances](https://erynith.github.io/movie-web-instances)
-- [Sudo-Flix docs](https://sussy-code.github.io/docs)
-- [Sudo-Flix Discord](https://discord.gg/r5cYshWM4G)
+- [Entertainment Empire](https://discord.gg/8NSDNEMfja)
 - Search Engines: DuckDuckGo, Bing, Google
 - Rentry.co
 

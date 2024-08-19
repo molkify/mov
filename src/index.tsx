@@ -29,7 +29,6 @@ import { changeAppLanguage, useLanguageStore } from "@/stores/language";
 import { ProgressSyncer } from "@/stores/progress/ProgressSyncer";
 import { SettingsSyncer } from "@/stores/subtitles/SettingsSyncer";
 import { ThemeProvider } from "@/stores/theme";
-import { TurnstileProvider } from "@/stores/turnstile";
 
 import {
   extensionInfo,
@@ -176,7 +175,6 @@ const root = createRoot(container!);
 root.render(
   <StrictMode>
     <ErrorBoundary>
-      <TurnstileProvider />
       <HelmetProvider>
         <Suspense fallback={<LoadingScreen type="lazy" />}>
           <ExtensionStatus />
